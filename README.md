@@ -1,1 +1,1 @@
-# static-page
+# github static-page without actions
